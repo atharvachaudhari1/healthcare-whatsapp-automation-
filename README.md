@@ -5,11 +5,7 @@
 ### AI-Powered WhatsApp CRM & Business Automation Platform
 
 <p align="center">
-  Manage Leads • Automate Conversations • Run Campaigns • Scale Customer Engagement
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&width=700&lines=WhatsApp+CRM+for+Modern+Businesses;Automate+Sales+and+Customer+Support;Shared+Inbox+%7C+Broadcasts+%7C+Analytics;Built+with+Next.js+and+Supabase" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&width=800&lines=Manage+Customers+on+WhatsApp;Automate+Sales+and+Support;Run+Campaigns+at+Scale;Built+with+Next.js+%26+Supabase" />
 </p>
 
 <p align="center">
@@ -17,80 +13,44 @@
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/atharvachaudhari1/DigiGrowNex?style=social"/>
-  <img src="https://img.shields.io/github/forks/atharvachaudhari1/DigiGrowNex?style=social"/>
+Manage leads, automate conversations, run campaigns, and scale customer engagement through the official WhatsApp Business API.
 </p>
 
 </div>
 
 ---
 
-## ✨ Overview
+## ✨ Features
 
-DigiGrowNex is a complete WhatsApp CRM and Automation Platform that helps businesses manage customer conversations, automate workflows, track leads, run campaigns, and monitor performance from a single dashboard.
-
----
-
-## 🔥 Features
-
-### 💬 Smart Shared Inbox
-
-* Multi-agent collaboration
-* Conversation assignment
-* Internal notes
-* Real-time messaging
-
-### 👥 Contact Management
-
-* Customer database
-* Tags & segmentation
-* Custom fields
-* Import & export support
-
-### 📈 Sales Pipeline
-
-* Kanban-style deal tracking
-* Lead lifecycle management
-* Opportunity monitoring
-
-### 📢 Broadcast Campaigns
-
-* Bulk WhatsApp campaigns
-* Template messaging
-* Delivery & read tracking
-
-### 🤖 Automation Engine
-
-* Keyword triggers
-* Scheduled workflows
-* Conditional logic
-* Webhook integrations
-
-### 📊 Analytics Dashboard
-
-* Response metrics
-* Campaign insights
-* Team performance
-* Growth monitoring
+| Feature                  | Description                                           |
+| ------------------------ | ----------------------------------------------------- |
+| 💬 Shared Inbox          | Centralized WhatsApp conversations for teams          |
+| 👥 Contact Management    | Organize customers, leads, tags & custom fields       |
+| 📈 Sales Pipeline        | Track deals with Kanban-style workflows               |
+| 📢 Broadcast Campaigns   | Send personalized WhatsApp campaigns                  |
+| 🤖 Workflow Automation   | Trigger actions based on keywords, events & schedules |
+| 📊 Analytics Dashboard   | Monitor conversations, campaigns & performance        |
+| 🔐 Secure Authentication | User management with role-based access                |
+| ⚡ WhatsApp Cloud API     | Official Meta WhatsApp integration                    |
 
 ---
 
-## 🏗️ Tech Stack
+## 🛠 Tech Stack
 
-| Category       | Technologies         |
-| -------------- | -------------------- |
-| Frontend       | Next.js 16, React 19 |
-| Language       | TypeScript           |
-| Styling        | Tailwind CSS         |
-| Database       | PostgreSQL           |
-| Backend        | Supabase             |
-| Authentication | Supabase Auth        |
-| Messaging      | WhatsApp Cloud API   |
-| Deployment     | Vercel, Hostinger    |
+<div align="center">
+
+| Frontend     | Backend    | Database      | Integrations           |
+| ------------ | ---------- | ------------- | ---------------------- |
+| Next.js 16   | TypeScript | PostgreSQL    | WhatsApp Cloud API     |
+| React 19     | Supabase   | Supabase Auth | Meta Business Platform |
+| Tailwind CSS | REST APIs  | Storage & RLS | Webhooks               |
+
+</div>
 
 ---
 
@@ -114,28 +74,26 @@ http://localhost:3000
 
 ---
 
-## 📸 Core Modules
+## 📦 Core Modules
 
-| Module         | Description                   |
-| -------------- | ----------------------------- |
-| 📥 Inbox       | Manage WhatsApp conversations |
-| 👥 Contacts    | Customer management           |
-| 📈 Pipelines   | Sales tracking                |
-| 📢 Campaigns   | WhatsApp broadcasts           |
-| 🤖 Automations | Workflow builder              |
-| 📊 Analytics   | Business insights             |
-| ⚙️ Settings    | Platform configuration        |
+| 📥 Inbox           | 👥 Contacts       | 📈 Pipeline   | 📢 Campaigns        |
+| ------------------ | ----------------- | ------------- | ------------------- |
+| Team Conversations | Customer Database | Deal Tracking | Broadcast Messaging |
+
+| 🤖 Automation    | 📊 Analytics      | ⚙️ Settings            | 🔐 Authentication |
+| ---------------- | ----------------- | ---------------------- | ----------------- |
+| Workflow Builder | Business Insights | Platform Configuration | User Management   |
 
 ---
 
 ## 🎯 Use Cases
 
 * Customer Support Teams
-* Sales Organizations
-* Marketing Agencies
+* Sales & Marketing Teams
+* Startups & SMBs
 * Educational Institutions
 * Healthcare Providers
-* Startups & Enterprises
+* Agencies & Enterprises
 
 ---
 
@@ -147,6 +105,6 @@ MIT License
 
 <div align="center">
 
-### Built to turn WhatsApp conversations into business growth 🚀
+### Turn WhatsApp Conversations Into Business Growth 🚀
 
 </div>
