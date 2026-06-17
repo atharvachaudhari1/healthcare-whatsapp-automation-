@@ -1,102 +1,152 @@
-# wacrm — CRM Template for WhatsApp
+<div align="center">
 
-> Self-hostable CRM template for WhatsApp® — shared inbox, contacts,
-> sales pipelines, broadcasts, and no-code automations. Fork it, brand
-> it, host it.
+# 🚀 DigiGrowNex
 
-[![Deploy on Hostinger](https://img.shields.io/badge/Deploy_on-Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)](https://www.hostinger.com/web-apps-hosting)
+### AI-Powered WhatsApp CRM & Business Automation Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-violet.svg)](./LICENSE)
-[![CI](https://github.com/ArnasDon/wacrm/actions/workflows/ci.yml/badge.svg)]([https://github.com/ArnasDon/wacrm/actions/workflows/ci.yml](https://github.com/atharvachaudhari1/healthcare-whatsapp-automation-)/)
-[![Next.js 16](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)](https://nextjs.org)
-[![Supabase](https://img.shields.io/badge/Supabase-Postgres%20%2B%20Auth-3ecf8e?logo=supabase)](https://supabase.com)
-[![Stars](https://img.shields.io/github/stars/ArnasDon/wacrm?style=social)](https://github.com/ArnasDon/wacrm/stargazers)
+<p align="center">
+  Manage Leads • Automate Conversations • Run Campaigns • Scale Customer Engagement
+</p>
 
-The marketing site and self-host docs live in a separate repo:
-[ArnasDon/wacrm-site](https://github.com/ArnasDon/wacrm-site)
-([wacrm.tech](https://wacrm.tech)). This repo is the product —
-clone or fork it to run your own CRM.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&width=700&lines=WhatsApp+CRM+for+Modern+Businesses;Automate+Sales+and+Customer+Support;Shared+Inbox+%7C+Broadcasts+%7C+Analytics;Built+with+Next.js+and+Supabase" />
+</p>
 
-## What you get out of the box
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</p>
 
-- **Shared inbox** on the official WhatsApp Business API — multiple
-  agents working one number, per-conversation assignment, status, and
-  notes.
-- **Contacts + tags + custom fields**, CSV import, deduplication.
-- **Sales pipelines** (Kanban) with deals linked to conversations.
-- **Broadcasts** with Meta-approved templates, delivery + read
-  tracking, per-recipient variable substitution.
-- **No-code automations** — triggers on inbound messages, new
-  contacts, keywords, or schedule; conditional branches, waits,
-  tags, webhooks. Visual builder.
-- **Real-time dashboard** — response times, daily volume, pipeline
-  value, cross-module activity feed.
-- **Account management** — email, password, avatar, global sign-out.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/atharvachaudhari1/DigiGrowNex?style=social"/>
+  <img src="https://img.shields.io/github/forks/atharvachaudhari1/DigiGrowNex?style=social"/>
+</p>
 
-## Why fork this?
+</div>
 
-This is a **template**, not a product. Forking means you get:
+---
 
-- **Full ownership** — your code, your Supabase project, your domain,
-  your data. No SaaS lock-in, no seat pricing, no trust dance.
-- **Full customisation** — add the fields your team needs, remove the
-  modules you don't, redesign anything. The stack is boring on
-  purpose (Next.js + Supabase + Tailwind) so the learning curve is
-  short.
-- **Zero ops to start** — Hostinger Managed Node.js deploys a fork in
-  a few clicks. No Docker, no Kubernetes, no infra team needed.
-- **Real security primitives** — token encryption (AES-256-GCM), RLS
-  on every table, HMAC-verified webhooks, CSP, rate limiting, CI
-  typecheck/build on every PR.
+## ✨ Overview
 
-Not a framework. Not an SDK. A concrete, working CRM you can stand up
-in an afternoon and make yours.
+DigiGrowNex is a complete WhatsApp CRM and Automation Platform that helps businesses manage customer conversations, automate workflows, track leads, run campaigns, and monitor performance from a single dashboard.
 
-## Quick start
+---
+
+## 🔥 Features
+
+### 💬 Smart Shared Inbox
+
+* Multi-agent collaboration
+* Conversation assignment
+* Internal notes
+* Real-time messaging
+
+### 👥 Contact Management
+
+* Customer database
+* Tags & segmentation
+* Custom fields
+* Import & export support
+
+### 📈 Sales Pipeline
+
+* Kanban-style deal tracking
+* Lead lifecycle management
+* Opportunity monitoring
+
+### 📢 Broadcast Campaigns
+
+* Bulk WhatsApp campaigns
+* Template messaging
+* Delivery & read tracking
+
+### 🤖 Automation Engine
+
+* Keyword triggers
+* Scheduled workflows
+* Conditional logic
+* Webhook integrations
+
+### 📊 Analytics Dashboard
+
+* Response metrics
+* Campaign insights
+* Team performance
+* Growth monitoring
+
+---
+
+## 🏗️ Tech Stack
+
+| Category       | Technologies         |
+| -------------- | -------------------- |
+| Frontend       | Next.js 16, React 19 |
+| Language       | TypeScript           |
+| Styling        | Tailwind CSS         |
+| Database       | PostgreSQL           |
+| Backend        | Supabase             |
+| Authentication | Supabase Auth        |
+| Messaging      | WhatsApp Cloud API   |
+| Deployment     | Vercel, Hostinger    |
+
+---
+
+## 🚀 Quick Start
 
 ```bash
-# Fork on GitHub first: https://github.com/ArnasDon/wacrm → Fork
-git clone https://github.com/<your-username>/wacrm.git
-cd wacrm
+git clone https://github.com/atharvachaudhari1/DigiGrowNex.git
+
+cd DigiGrowNex
+
 npm install
-cp .env.local.example .env.local   # fill in Supabase + Meta creds
+
 npm run dev
 ```
 
-Open <http://localhost:3000>. You'll be redirected to `/login` (or
-`/dashboard` if already signed in).
+Open:
 
-## Documentation
+```bash
+http://localhost:3000
+```
 
-Full self-host documentation — Supabase migrations, WhatsApp Business
-API config, and production deploy — lives at
-**[wacrm.tech/docs](https://wacrm.tech/docs)**
-(source: [ArnasDon/wacrm-site](https://github.com/ArnasDon/wacrm-site)).
+---
 
-Key pages:
-- [Getting started](https://wacrm.tech/docs/getting-started)
-- [Supabase setup](https://wacrm.tech/docs/supabase-setup)
-- [WhatsApp setup](https://wacrm.tech/docs/whatsapp-setup)
-- [Environment variables](https://wacrm.tech/docs/environment-variables)
-- [Deploy on Hostinger](https://wacrm.tech/docs/deployment-hostinger)
-- [Architecture](https://wacrm.tech/docs/architecture)
-- [Troubleshooting](https://wacrm.tech/docs/troubleshooting)
+## 📸 Core Modules
 
-## Stack
+| Module         | Description                   |
+| -------------- | ----------------------------- |
+| 📥 Inbox       | Manage WhatsApp conversations |
+| 👥 Contacts    | Customer management           |
+| 📈 Pipelines   | Sales tracking                |
+| 📢 Campaigns   | WhatsApp broadcasts           |
+| 🤖 Automations | Workflow builder              |
+| 📊 Analytics   | Business insights             |
+| ⚙️ Settings    | Platform configuration        |
 
-- **App** — Next.js 16 (App Router), React 19, TypeScript, Tailwind v4.
-- **Data** — Supabase (Postgres + Auth + Storage + RLS).
-- **WhatsApp** — Meta Cloud API (official WhatsApp Business API).
+---
 
-## Contributing
+## 🎯 Use Cases
 
-This is a template, not a collaborative product — the expected flow is
-fork → customise → deploy, **not** upstream contribution. Bug reports
-and security issues are welcome; feature PRs often belong in your fork
-rather than here. Details in
-[`CONTRIBUTING.md`](./CONTRIBUTING.md) and
-[`.github/SECURITY.md`](./.github/SECURITY.md).
+* Customer Support Teams
+* Sales Organizations
+* Marketing Agencies
+* Educational Institutions
+* Healthcare Providers
+* Startups & Enterprises
 
-## License
+---
 
-[MIT](./LICENSE). Fork it, brand it, host it.
+## 📄 License
+
+MIT License
+
+---
+
+<div align="center">
+
+### Built to turn WhatsApp conversations into business growth 🚀
+
+</div>
